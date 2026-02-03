@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Customer Retention & Churn Analysis
 
 ## 📊 Project Overview
@@ -42,3 +43,5 @@ The final report includes:
 ## 📦 Requirements
 ```bash
 pip install pandas matplotlib seaborn lifetimes
+=======
+
